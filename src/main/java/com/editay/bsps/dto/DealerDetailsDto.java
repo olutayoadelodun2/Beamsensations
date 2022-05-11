@@ -1,6 +1,7 @@
 package com.editay.bsps.dto;
 
 public class DealerDetailsDto {
+	//pojo
 	   private Long id;
 	   private String username;
 	   private String email;
